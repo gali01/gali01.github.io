@@ -40,7 +40,7 @@ div .particle{
     position: relative;
     background-color: #ffffff;
     border-radius: 50%;
-    padding: 15px;
+    padding: 25px;
     margin: 10px;
     width: 80px;
     height: 80px;
@@ -129,15 +129,22 @@ div .particle{
 
   .bonane {
     color: #130f49;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 500;
     display: flex;
     align-items: center;
   }
   .bonane img {
-    width: 26px;
+    width: 40px;
     margin-right: 6px;
     margin-top: 4px;
+  }
+
+  .image1{
+      background-image:url(assets/images/1561695757873.jpg) no-repeat center;
+      background-size: cover;
+      position: relative;
+    
   }
   
  
